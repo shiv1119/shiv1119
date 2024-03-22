@@ -25,6 +25,7 @@
   <img src="mygif2.gif" width="400" height="300"/>
 </div>
 
+  ---
 ### :woman_technologist: About Me :
 I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
