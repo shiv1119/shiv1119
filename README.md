@@ -36,3 +36,6 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 - :mailbox:How to reach me: <a href="www.linkedin.com/in/shivnandanverma">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  ---
+### :hammer_and_wrench: Languages and Tools :
