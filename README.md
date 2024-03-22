@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="500"/>
+  <img src="mygif.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
