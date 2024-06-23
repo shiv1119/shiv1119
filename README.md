@@ -65,7 +65,7 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shiv1119/shiv1119/output/main.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shiv1119/shiv1119/output/snake.svg" alt="Snake animation" />
 
 ###
 
