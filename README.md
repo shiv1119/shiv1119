@@ -61,6 +61,9 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/shiv1119/shiv1119/output/snake.svg" alt="Snake anima>
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shiv1119&theme=dark&background=000000)](https://git.io/streak-stats)
 
