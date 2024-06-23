@@ -61,7 +61,13 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/shiv1119/shiv1119/output/snake.svg" alt="Snake anima>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/keshari-nandan/keshari-nandan/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ### :fire: My Stats :
