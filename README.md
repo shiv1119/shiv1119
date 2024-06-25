@@ -73,4 +73,4 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shiv1119&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv1119&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv1119&layout=compact&langs_count=8&card_width=800&background=000000)](https://github.com/anuraghazra/github-readme-stats)
