@@ -3,13 +3,13 @@
   <img src="mygif.gif" width="400"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shivnandanverma/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/shivnandanverma">
     <img src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://leetcode.com/u/shiv_1119/">
     <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leet Code Badge"/>
   </a>
 </div>
@@ -36,8 +36,8 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 
 - :zap: In my free time, I solve problems on Leetcode and Codeforces.
 
-- :mailbox:How to reach me: <a href="www.linkedin.com/in/shivnandanverma">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/shivnandanverma/">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
 
 ---
