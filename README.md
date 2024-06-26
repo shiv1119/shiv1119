@@ -34,7 +34,7 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
 
 - :seedling: Exploring New Technologies.
 
-- :zap: In my free time, I solve problems on Leetcode and Codeforces.
+- :zap: I solve problems on Leetcode and Hackerrank in my free time.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/shivnandanverma/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
