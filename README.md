@@ -15,10 +15,11 @@
 </div>
 
 ---
-<h2 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiv1119&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
 <div align="center">
   <img src="mygif2.gif" width="400" height="300"/>
 </div>
