@@ -51,7 +51,7 @@ I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/pandas-original.svg" title="pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
