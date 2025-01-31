@@ -25,7 +25,7 @@
 ---
 ### :woman_technologist: About Me :
 I am a Full Stack Developer and ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
-- :telescope: I’m eagwr to work as a Fullstack engineer  and contribute to frontend and backend for building web applications.
+- :telescope: I’m eager to work as a Fullstack engineer  and contribute to frontend and backend for building web applications.
 
 - :seedling: Exploring New Technologies.
 
