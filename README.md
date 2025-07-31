@@ -29,7 +29,7 @@ I'm a aspiring Backend Developer with knowledge of AI and ML <img src="https://m
 
 - :seedling: Exploring New Technologies.
 
-- :zap: I solve problems on Leetcode and Hackerrank in my free time.
+- :zap: I love solve problems on Leetcode and Hackerrank in my free time.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/shivnandanverma/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
